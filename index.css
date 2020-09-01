@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(6, 9, 26);
+    background-size: 100%;    
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#container {
+    border: 8px groove rgb(84, 84, 235);
+    margin: 150px 150px 100px 150px;
+    padding: 20px;
+    background-color: rgba(231, 157, 96, 0.911);
+   
+}
+#pic{
+    margin: 40px 50px 70px 12px ;       
+    float: left;
+    opacity: 0.8;    
+    border-radius: 1000px;
+}
+
+#poem {
+    font-family: 'Cookie', cursive;
+    font-size: 20pt;
+    text-shadow: 7px 10px 5px black;    
+    word-spacing: 2px;  
+    color: cornsilk;
+}
+
